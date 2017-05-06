@@ -8,5 +8,5 @@ Android app to help League of Legends Players
 <br>
 <br>
 Here is a video of the current app
-
-<embed src="video-1493801623.mp4" autostart="false" height="800" width="400" />
+<br>
+<embed src="video-1493801623.mp4" autostart=0 height="800" width="400" />
