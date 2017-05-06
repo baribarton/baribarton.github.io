@@ -7,4 +7,5 @@ Android app to help League of Legends Players
 
 <video width="320" height="240" controls>
   <source src="video-1493801623.mp4" type="video/mp4">
+  Video
 </video>
