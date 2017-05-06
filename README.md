@@ -11,3 +11,7 @@ Here is a video of a recent version of the app
 <br>
 <embed src="video-1493801623.mp4" autostart="0" height="800" width="400" />
 <br>
+<br>
+Download the APK here
+<br>
+<a href="baribarton.github.io/LOL%20Project-release.apk" download>
