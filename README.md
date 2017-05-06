@@ -11,3 +11,4 @@ Here is a video of a recent version of the app
 <br>
 <embed src="video-1493801623.mp4" autostart="0" height="800" width="400" />
 <br>
+<embed src="video-1493801623.mp4" controls autoplay="0" height="800" width="400" />
