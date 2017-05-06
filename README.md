@@ -7,6 +7,6 @@ Android app to help League of Legends Players
 
 <div class="gallery">
 				<ul>
-					<li class="first"><a href="riot.txt"></a></li>
+					<a href="riot.txt"></a>
 				</ul>		
  </div>
